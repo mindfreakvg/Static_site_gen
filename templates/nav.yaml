@@ -1,0 +1,9 @@
+- name: Home
+  order: a
+  url: home.html
+- name: about
+  order: b
+  url: about.html
+- name: info
+  order: c
+  url: info.html
